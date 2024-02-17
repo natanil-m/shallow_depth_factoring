@@ -21,17 +21,17 @@ We present the Shallow Depth Factoring (SDF) algorithm, a novel quantum approach
 
 ## Example 1
 ### This Example is for number = 143.
-![Example1](https://github.com/natanil-m/variational_quantum_factorization/blob/main/figure_example1.png)
+![Example1](https://github.com/natanil-m/shallow_depth_factoring/blob/main/figure_example1.png)
 
 ## Example 2
 ### This Example is for number = 391.
-![Example2](https://github.com/natanil-m/variational_quantum_factorization/blob/main/figure_example2.png)
+![Example2](https://github.com/natanil-m/shallow_depth_factoring/blob/main/figure_example2.png)
 
 ## Example 3
 ### This Example is for number = 323.
 ### After prepocessing we reduce the equestions as following:
-![Eq_Example3](https://github.com/natanil-m/variational_quantum_factorization/blob/main/equations_example3.png)
-![Example3](https://github.com/natanil-m/variational_quantum_factorization/blob/main/figure_example3.png)
+![Eq_Example3](https://github.com/natanil-m/shallow_depth_factoring/blob/main/equations_example3.png)
+![Example3](https://github.com/natanil-m/shallow_depth_factoring/blob/main/figure_example3.png)
 
 
 ## Contribution
